@@ -1,4 +1,5 @@
 # Random-Quote Page
- _A Pen created at CodePen.io. Original URL: [https://codepen.io/frank_not_so_heroic/pen/dyoRWEd](https://codepen.io/frank_not_so_heroic/pen/dyoRWEd).
+Original URL: [https://codepen.io/frank_not_so_heroic/pen/dyoRWEd](https://codepen.io/frank_not_so_heroic/pen/dyoRWEd).
 
- 
+ preview:
+ ![image](https://github.com/frank93011/Random-Quote-Page/blob/master/src/scrrenshot.png)
